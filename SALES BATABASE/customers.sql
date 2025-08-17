@@ -1,4 +1,4 @@
-CREATE TABLE salesDB;
+CREATE DATABASE salesDB;
 
 CREATE TABLE customers(
 id INT,
